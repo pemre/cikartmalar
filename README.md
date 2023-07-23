@@ -1,6 +1,6 @@
-# Çıkartmalar
+# Çıkartmalar - WhatsApp için
 
-Kucuk resimleri Linux'ta yaratmak icin komut:
+Küçük resimleri Linux'ta yaratmak için komut:
 
 ```bash
 convert +append {1..30}.webp[0] -resize x50 thumbnails.png
